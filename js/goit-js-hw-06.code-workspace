@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../Downloads/src 2/css"
+	},
+	{
+		"path": "../../../../Downloads/src 2/js"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "js"
+  }
+}
